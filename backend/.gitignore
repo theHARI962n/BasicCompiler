@@ -8,3 +8,4 @@ backend/outputs/
 # Ignore environment files
 .env
 
+outputs/

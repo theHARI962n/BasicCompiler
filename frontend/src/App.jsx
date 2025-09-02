@@ -60,7 +60,7 @@ function App() {
 
   return (
     <div className="container mx-auto py-8 flex flex-col items-center">
-      <h1 className="text-3xl font-bold mb-4">AlgoU Online Code Compiler</h1>
+      <h1 className="text-3xl font-bold mb-4">Compile C++ Online Code Compiler</h1>
       <select className="select-box border border-gray-300 rounded-lg py-1.5 px-4 mb-1 focus:outline-none focus:border-indigo-500">
         <option value='cpp'>C++</option>
         <option value='c'>C</option>
