@@ -10,7 +10,7 @@ This can be integrated into any project requiring a code execution feature.
 - **Frontend**: Vite + React (or similar)
 - **Backend**: Node.js + Express
 - **Languages Supported**: C++
-
+(more languages will be integrated soon)
 ---
 
 ## Create a .env file:
